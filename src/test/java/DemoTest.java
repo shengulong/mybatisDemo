@@ -1,6 +1,3 @@
-package TankLearn2.Learn;
-
-import org.testng.*;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;

@@ -114,3 +114,58 @@
 2017-01-10 09:10:09,898 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 1121454968 to pool.
 2017-01-10 09:10:09,901 DEBUG Demo - 程序运行结束了
 2017-01-10 09:10:09,901 WARN  Demo - 这个只是演示告警效果
+2017-01-10 10:25:03,164 DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2017-01-10 10:25:03,761 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:25:03,765 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:25:03,765 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:25:03,765 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:25:04,052 DEBUG Demo - 程序运行开始了
+2017-01-10 10:25:04,052 INFO  Demo - 提示信息
+2017-01-10 10:25:04,085 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+2017-01-10 10:25:04,863 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 106374177.
+2017-01-10 10:25:04,865 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6572421]
+2017-01-10 10:25:04,874 DEBUG object.Tiger.selectTiger - ==>  Preparing: select * from tiger where id = ? 
+2017-01-10 10:25:04,954 DEBUG object.Tiger.selectTiger - ==> Parameters: 1(Integer)
+2017-01-10 10:25:04,993 DEBUG object.Tiger.selectTiger - <==      Total: 1
+2017-01-10 10:25:04,997 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@6572421]
+2017-01-10 10:25:04,998 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@6572421]
+2017-01-10 10:25:04,999 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 106374177 to pool.
+2017-01-10 10:25:05,003 DEBUG Demo - 程序运行结束了
+2017-01-10 10:25:05,003 WARN  Demo - 这个只是演示告警效果
+2017-01-10 10:25:32,293 DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2017-01-10 10:25:32,842 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:25:32,842 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:25:32,843 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:25:32,843 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:25:33,343 DEBUG Demo - 程序运行开始了
+2017-01-10 10:25:33,344 INFO  Demo - 提示信息
+2017-01-10 10:25:33,378 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+2017-01-10 10:25:34,826 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 2011986105.
+2017-01-10 10:25:34,827 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@77ec78b9]
+2017-01-10 10:25:34,837 DEBUG object.Tiger.selectTiger - ==>  Preparing: select * from tiger where id = ? 
+2017-01-10 10:25:34,945 DEBUG object.Tiger.selectTiger - ==> Parameters: 1(Integer)
+2017-01-10 10:25:34,999 DEBUG object.Tiger.selectTiger - <==      Total: 1
+2017-01-10 10:25:35,001 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@77ec78b9]
+2017-01-10 10:25:35,002 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@77ec78b9]
+2017-01-10 10:25:35,002 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 2011986105 to pool.
+2017-01-10 10:25:35,005 DEBUG Demo - 程序运行结束了
+2017-01-10 10:25:35,005 WARN  Demo - 这个只是演示告警效果
+2017-01-10 10:25:35,102 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:42:21,998 DEBUG org.apache.ibatis.logging.LogFactory - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2017-01-10 10:42:22,399 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:42:22,399 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:42:22,399 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:42:22,399 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - PooledDataSource forcefully closed/removed all connections.
+2017-01-10 10:42:22,658 DEBUG Demo - 程序运行开始了
+2017-01-10 10:42:22,658 INFO  Demo - 提示信息
+2017-01-10 10:42:22,714 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Opening JDBC Connection
+2017-01-10 10:42:23,566 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Created connection 1121454968.
+2017-01-10 10:42:23,566 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@42d80b78]
+2017-01-10 10:42:23,575 DEBUG object.Tiger.selectTiger - ==>  Preparing: select * from tiger where id = ? 
+2017-01-10 10:42:23,636 DEBUG object.Tiger.selectTiger - ==> Parameters: 1(Integer)
+2017-01-10 10:42:23,668 DEBUG object.Tiger.selectTiger - <==      Total: 1
+2017-01-10 10:42:23,669 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@42d80b78]
+2017-01-10 10:42:23,670 DEBUG org.apache.ibatis.transaction.jdbc.JdbcTransaction - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@42d80b78]
+2017-01-10 10:42:23,670 DEBUG org.apache.ibatis.datasource.pooled.PooledDataSource - Returned connection 1121454968 to pool.
+2017-01-10 10:42:23,678 DEBUG Demo - 程序运行结束了
+2017-01-10 10:42:23,678 WARN  Demo - 这个只是演示告警效果
